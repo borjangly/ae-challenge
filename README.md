@@ -3,7 +3,7 @@
 ## Instructions
 
 1. Update the file_path value in config.json to the location of your choosing
-2. Either run pipeline.py from a IDE of your choice or run `python pipeline.py` in terminal/command line
+2. Either run pipeline.py from an IDE of your choice or run `python pipeline.py` in terminal/command line
 
 ## Design approach
 
@@ -58,7 +58,7 @@ i.e. a software engineer at Nike is technically the tech industry, however compa
 ### Salary
 Tracking salary (band) growth over time is a generally accepted indicator of career growth
 
-### Certificaitons
+### Certifications
 Skills are also valuable to growing a career however they are more subjectively categorized; your idea of "advanced python skills" may not be the same as mine.
 
 Certifications are an objective measurement point and certifications can also be tracked back to issuing organizations for additional analysis/benchmarking on the value of a certification from a specific org.
