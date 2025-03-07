@@ -70,7 +70,7 @@ For each industry, sector or even company, a rough job progression path can be c
 For some industries education level can present either a growth opportunity or a barrier-to-entry i.e. in academia to be a full-fledged professor you need to have completed a PhD.
 
 ## 3 - How the data model ties in
-Using the data model designed in part 1, we can easily create analytics that observe key metrics like salary and job titles over time. Additionaly, we can factor in more subjective factors like skills, certifications and education level.
+Using the data model designed in part 1, we can easily create analytics that observe key metrics like salary and job titles over time. Additionally, we can factor in more subjective factors like skills, certifications and education level.
 
 ## 4 - Additional data sources
 
@@ -123,7 +123,7 @@ dagbag_import_timeout = 60
 These are just estimated values and the most accurate value would depend on the workload
 
 ### Breaking down tasks
-Tasks can be encapsulated in separate files. Similar to the logic in the original pipeline, this allows for easier development work and maintenance. Inidividual DAGs can be triggered by the `TriggerDagRunOperator`
+Tasks can be encapsulated in separate files. Similar to the logic in the original pipeline, this allows for easier development work and maintenance. Individual DAGs can be triggered by the `TriggerDagRunOperator`
 
 Example
 ```
